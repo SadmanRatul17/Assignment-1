@@ -1,0 +1,41 @@
+.head
+{
+    font-family: 'Lato', sans-serif;
+    color: white;
+    
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    height: 240px;
+    text-align: center;
+    padding-top: 150px;
+    padding-left: 80px;
+    padding-right: 80px;
+   
+}
+h1{
+    font-size: 45px;
+  
+}
+h5{
+    padding-top: 15px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 30px;
+}
+*{
+    margin: 0px;
+}
+.color{
+    color: tomato;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(tomato,red);
+     padding: 10px 10px;
+     border-radius: 5px;
+     color: white;
+     font-weight: 200;
+      margin-top: 5px;
+      font-size: 15px;
+     
+}
